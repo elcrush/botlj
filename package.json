@@ -40,7 +40,7 @@
         "winston": "^3.3.3",
         "ytdl-core": "^4.7.0",
         "ytpl": "^2.2.1",
-        "ytsr": "^3.5.0"
+        "ytsr": "^3.7.0"
     },
     "devDependencies": {
         "@zhycorp/eslint-config": "^2.5.0",
